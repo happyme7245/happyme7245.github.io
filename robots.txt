@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://happyme7245.github.io/al-folio/sitemap.xml
+Sitemap: https://happyme7245.github.io/sitemap.xml
